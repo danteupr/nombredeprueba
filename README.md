@@ -1,2 +1,0 @@
-# nombredeprueba
-publicacion
